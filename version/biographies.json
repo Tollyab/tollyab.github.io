@@ -1,0 +1,10 @@
+{
+	"stable": {
+		"0.1": {
+			"current": "0.0.1",
+			"announcement": "http://tollyab.github.io/customise/db/extension/tollyab_next_bbcode_box/",
+			"eol": null,
+			"security": false
+		}
+	}
+}
